@@ -24,6 +24,5 @@ Atlas is not a licensed therapist or a medical professional. This tool is intend
 
 If you are in a crisis, please contact:
 
-National Suicide Prevention Lifeline: 988 (US)
+National Suicide Prevention Lifeline: 14416 (INDIA)
 
-Crisis Text Line: Text HOME to 741741
