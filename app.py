@@ -13,7 +13,7 @@ st.title("🌱 Atlas: Mental Health Companion")
 # 3. Sidebar for Safety
 with st.sidebar:
     st.header("Emergency Resources")
-    st.error("Crisis Lifeline: 988")
+    st.error("Crisis Lifeline: 1-800-891-4416")
     st.info("Atlas is an AI, not a doctor. Please seek professional help if needed.")
 
 # 4. Initialize AI
