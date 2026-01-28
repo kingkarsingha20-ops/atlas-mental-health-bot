@@ -9,6 +9,8 @@ genai.configure(api_key=API_KEY)
 # 2. Page Setup
 st.set_page_config(page_title="Atlas Support", page_icon="🌱")
 st.title("🌱 Atlas: Mental Health Companion")
+st.caption("Developed with ❤️ by [Your Name]")
+st.markdown("---")
 
 # 3. Sidebar for Safety
 with st.sidebar:
